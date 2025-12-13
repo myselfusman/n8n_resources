@@ -5,18 +5,16 @@
     { "name": "openai-large", "description": "OpenAI GPT-4.1" },
     { "name": "openai-reasoning", "description": "openai/o4-mini" },    
     { "name": "gpt-5-nano", "description": "OpenAI GPT-5 Nano" },
-    { "name": "gemini", "description": "gemini" },
+    { "name": "gemini", "description": "Gemini 2.5 Flash Lite" },
     { "name": "qwen-coder", "description": "Qwen 2.5 Coder 32B" },    
     { "name": "roblox-rp", "description": "Llama 3.1 8B Instruct" },
     { "name": "bidara", "description": "BIDARA (Biomimetic Designer and Research Assistant by NASA)" },    
-    { "name": "nova-fast", "description": "Amazon Nova Micro" },
-    { "name": "mistral", "description": "Mistral Small 3.1 24B" },
+    { "name": "chickytutor", "description": "ChickyTutor AI Language Tutor - (chickytutor.com)" },
+    { "name": "mistral", "description": "Mistral Small 3.2 24B" },
     { "name": "evil", "description": "Evil AI Experimental" },
-    { "name": "midijourney", "description": "MIDIjourney" },
-    { "name": "mirexa", "description": "Mirexa AI Companion" },
+    { "name": "midijourney", "description": "MIDIjourney" },   
     { "name": "rtist", "description": "Rtist" },
     { "name": "unity", "description": "Unity Unrestricted Agent" },
-    { "name": "deepseek-reasoning", "description": "DeepSeek R1 - MAI-DS-R1" },
-    { "name": "sur", "description": "Sur AI Assistant (Mistral)" }
+    { "name": "deepseek", "description": "DeepSeek 3.1" }
   ]
 }
